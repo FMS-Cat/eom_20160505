@@ -5,7 +5,6 @@
 Processing  
 
 [Everyday One Motion](http://motions.work/motion/219)  
-[Demo Page](http://fms-cat.github.io/eom_20160505)  
 
 ## 今月のテーマ
 
