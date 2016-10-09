@@ -1,4 +1,6 @@
-# Everyday One Motion - 20160505 "ExpHead, AccTail"  
+# Everyday One Motion - 20160505  
+
+"ExpHead, AccTail"  
 
 ![](20160505.gif)  
 
